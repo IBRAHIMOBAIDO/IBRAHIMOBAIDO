@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim OBAIDO</h1>
-<p align="left">An Electronics and Communications Engineer, I graduted from Kocaeli University in June 2021 from Turkey.</p>
+<p align="left">An Electronics and Communications Engineer, I graduted in June 2021 from Kocaeli University, Turkey.</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">Arabic Language.</p>
