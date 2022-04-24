@@ -18,6 +18,12 @@
 </p>
 
 <h3 align="left">Languages:</h3>
+- 👨‍💻 Most of my projects are available at [https://github.com/IBRAHIMOBAIDO?tab=repositories](https://github.com/IBRAHIMOBAIDO?tab=repositories)
+- <p align="left">Arabic Language.</p>
+- <p align="left">Turkish Language.</p>
+- <p align="left">English Language.</p>
+
+- 📫 How to reach me **obaidoibrahim@gmail.com**
 <p align="left">Arabic Language.</p>
 <p align="left">Turkish Language.</p>
 <p align="left">English Language.</p>
