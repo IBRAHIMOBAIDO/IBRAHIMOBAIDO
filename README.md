@@ -15,11 +15,9 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-- align="left">Arabic Language.
-- align="left">Turkish Language.
-- align="left">English Language.
-- 📫 How to reach me **obaidoibrahim@gmail.com**
-
+- <p align="left">Arabic Language.</p>
+- <p align="left">Turkish Language.</p>
+- <p align="left">English Language.</p>
 
 <h3 align="left">Examples of Work:</h3>
 <img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black.png" width ="256"/>
