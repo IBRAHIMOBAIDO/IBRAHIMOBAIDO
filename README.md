@@ -7,7 +7,6 @@
 - 👨‍💻 Most of my projects are available at [https://github.com/IBRAHIMOBAIDO?tab=repositories](https://github.com/IBRAHIMOBAIDO?tab=repositories)
 
 - 📫 How to reach me **obaidoibrahim@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,9 +15,10 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left">Arabic Language.</p>
-<p align="left">Turkish Language.</p>
-<p align="left">English Language.</p>
+- <p align="left">Arabic Language.</p>
+
+- <p align="left">Turkish Language.</p>
+- <p align="left">English Language.</p>
 
 
 <h3 align="left">Examples of Work:</h3>
