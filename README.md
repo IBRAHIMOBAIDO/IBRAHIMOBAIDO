@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p * align="left">Arabic Language.</p>
+<p * align="**left">Arabic Language.</p>
 <p * align="left">Turkish Language.</p>
 <p * align="left">English Language.</p>
 
