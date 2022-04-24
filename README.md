@@ -17,7 +17,7 @@
 <a href="https://fb.com/obaidoibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obaidoibrahim" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">**Languages:**</h3>
 <p align="left">Arabic Language.</p>
 <p align="left">Turkish Language.</p>
 <p align="left">English Language.</p>
