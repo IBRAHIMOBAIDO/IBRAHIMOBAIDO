@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ibrahim OBAIDO</h1>
-<h3 align="center">An Electronics and Communications Engineer.</h3>
+<h3 align="left">An Electronics and Communications Engineer, I graduted from Kocaeli University in June 2021 in Turkey.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IBRAHIMOBAIDO?tab=repositories](https://github.com/IBRAHIMOBAIDO?tab=repositories)
 
