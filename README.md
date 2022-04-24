@@ -15,9 +15,9 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-- <p align="left">Arabic Language.</p>
-- <p align="left">Turkish Language.</p>
-- <p align="left">English Language.</p>
+- align="left">Arabic Language.
+- align="left">Turkish Language.
+- align="left">English Language.
 
 
 <h3 align="left">Examples of Work:</h3>
