@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahim OBAIDO</h1>
+<h1 align="center">Hello 👋, I'm Ibrahim OBAIDO</h1>
 <p align="left">An Electronics and Communications Engineer, I graduted in June 2021 from Kocaeli University, Turkey.</p>
 
 <h2 align="left">Career Objective:</h2>
