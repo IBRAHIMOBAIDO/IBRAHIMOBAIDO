@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ibrahim OBAIDO</h1>
+<h1 align="left">Hello 👋, I'm Ibrahim OBAIDO</h1>
 <p align="left">An Electronics and Communications Engineer, I graduted in June 2021 from Kocaeli University, Turkey.</p>
 
 <h2 align="left">Career Objective:</h2>
@@ -11,14 +11,14 @@ src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e
 src="https://www.st.com/content/ccc/fragment/sales_and_marketing/banner/homepage_banner/group2/79/33/9b/66/5c/0e/40/9c/subbrand_stm32_white/files/Subbrand_white2_STM32.png/jcr:content/translations/zh.Subbrand_white2_STM32.png" alt="STM" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/ibrahimobaido" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimobaido" height="30" width="40"/></a><a href="https://fb.com/obaidoibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obaidoibrahim" height="30" width="40"/></a><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfqbprQVlljZNTBDnNSFtbPwtzBZwkCPCBhZSqWlgMlHJbRknBrDpZkzRlQvlXXMmzlMZL" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="IBRAHIM OABIDO" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/ibrahimobaido" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimobaido" height="30" width="40" /></a><a href="https://fb.com/obaidoibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obaidoibrahim" height="30" width="40" /></a><a href="https://join.skype.com/invite/HcVAZ8Gf4eBU" target="_blank"><img align="center" src="https://pngimg.com/uploads/skype/skype_PNG28.png" alt="IBRAHIM OABIDO" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages:</h2>
 <ul>
-  <li>Arabic Language.</li>
-  <li>Turkish Language.</li>
-  <li>English Language.</li>
+  <li>Arabic</li>
+  <li>Turkish</li>
+  <li>English</li>
 </ul>
 
 <h2 align="left">Examples of Work:</h2>
