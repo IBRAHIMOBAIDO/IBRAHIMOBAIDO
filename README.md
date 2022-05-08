@@ -20,8 +20,14 @@ src="https://www.st.com/content/ccc/fragment/sales_and_marketing/banner/homepage
 </p>
 
 <h2 align="left">Languages:</h2>
-<p align="left"> <a align="left">Arabic Language.</a><a align="left"> Turkish Language.</a><a align="left"> English Language.</a></p>
+<ul>
+  <li>Arabic Language.</li>
+  <li>Turkish Language.</li>
+  <li>English Language.</li>
+</ul>
 
 <h2 align="left">Examples of Work:</h2>
-<h3 align="left">1-Electronic Power Steering Test Device’s Board:</h3>
+<ul>
+<li><h3>Electronic Power Steering Test Device’s Board:</h3></li>
 <p <a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black.png" width ="256"/> </a><a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black%202.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Bottom%203D%20Black.png" width ="256"/></a> </p>
+</ul>
