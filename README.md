@@ -9,14 +9,9 @@
 src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium" width="40" height="40"/> </a><a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img 
 src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png" alt="KiCad" width="40" height="40"/> </a><a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img 
 src="https://www.st.com/content/ccc/fragment/sales_and_marketing/banner/homepage_banner/group2/79/33/9b/66/5c/0e/40/9c/subbrand_stm32_white/files/Subbrand_white2_STM32.png/jcr:content/translations/zh.Subbrand_white2_STM32.png" alt="STM" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-
-- Most of my projects are available at [https://github.com/IBRAHIMOBAIDO?tab=repositories](https://github.com/IBRAHIMOBAIDO?tab=repositories)
-
-- How to reach me **obaidoibrahim@gmail.com**
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/ibrahimobaido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimobaido" height="30" width="40" /></a><a href="https://fb.com/obaidoibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obaidoibrahim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahimobaido" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimobaido" height="30" width="40"/></a><a href="https://fb.com/obaidoibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obaidoibrahim" height="30" width="40"/></a><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfqbprQVlljZNTBDnNSFtbPwtzBZwkCPCBhZSqWlgMlHJbRknBrDpZkzRlQvlXXMmzlMZL" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="IBRAHIM OABIDO" height="30" width="40"/></a>
 </p>
 
 <h2 align="left">Languages:</h2>
@@ -28,6 +23,7 @@ src="https://www.st.com/content/ccc/fragment/sales_and_marketing/banner/homepage
 
 <h2 align="left">Examples of Work:</h2>
 <ul>
-<li><h3>Electronic Power Steering Test Device’s Board:</h3></li>
+<li>Electronic Power Steering Test Device’s Board:</li>
 <p <a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black.png" width ="256"/> </a><a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black%202.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Bottom%203D%20Black.png" width ="256"/></a> </p>
+<li>Most of my projects are available at <a href="https://github.com/IBRAHIMOBAIDO?tab=repositories" target="_balnk">GitHub-Repositories</a></li>
 </ul>
