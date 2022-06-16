@@ -24,6 +24,17 @@ src="https://www.st.com/content/ccc/fragment/sales_and_marketing/banner/homepage
 <h2 align="left">Examples of Work:</h2>
 <ul>
 <li>Electronic Power Steering Test Device’s Board:</li>
-<p <a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black.png" width ="256"/> </a><a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black%202.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Bottom%203D%20Black.png" width ="256"/></a> </p>
+<p>
+<a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black.png" width ="256"/> </a><a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Top%203D%20Black%202.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Electronic-Power-Steering-test-device-s-board/blob/master/Bottom%203D%20Black.png" width ="256"/></a>
+</p>
+
+<li>Construction of Adjustable DC Power Supply with Phase Shift Controlled:<li/>
+<p>
+<a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/001-Genel%20Schematics.PNG" width ="256"/></a> <a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/Vin_I_withoutPFC.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/Iadderout_Iprodout_Sytout_Iboostin.png" width ="256"/></a> 
+  
+<a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/Iin_Prodout_I_boostin.png" width ="256"/></a> <a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/THD.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/Vin_I_PFC.png" width ="256"/></a> 
+  
+<a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/Faz%20Kayd%C4%B1rma%20Miktar%C4%B1.png" width ="256"/></a> <a align="left"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/V_OUT_125_100_50.png" width ="256"/></a> <a align="right"><img src="https://github.com/IBRAHIMOBAIDO/Phase-Shift-Controlled-Regulated-DC-Power-Supply-Construction/blob/master/Simulation%20Rasules/V_I_OUT.png" width ="256"/></a>
+</p>
 <li>Most of my projects are available at <a href="https://github.com/IBRAHIMOBAIDO?tab=repositories" target="_balnk">GitHub-Repositories</a></li>
 </ul>
