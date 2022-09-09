@@ -2,7 +2,21 @@
 <p align="left">An Electronics and Communications Engineer, I graduted in June 2021 from Kocaeli University, Turkey.</p>
 
 <h2 align="left">Career Objective:</h2>
-<p align="left">A highly articulate, motivated, and enthusiastic with excellent interpersonal skills. Versatile, analytical, and hard-working, with a practical hands-on approach. Always perseveres to achieve the best results and the ability to use own initiative to run projects independently. Proven to manage and complete projects to the highest standard and within agreed deadlines. Can work as part of a team and manage and motivate team members efficiently to achieve quality expectations under pressure..</p>
+<p align="left">Highly Skilled Electronics and Communications Engineer with proven experience. During my experience, I worked to design and develop communications equipment and systems. I gained hands on experience in configuration, activation, and troubleshooting on commercial sites.
+Motivated, and enthusiastic individual with excellent interpersonal skills. Versatile, analytical, and hard-working, with a practical hands-on approach. Always perseveres to achieve the best results and the ability to use my own initiative to run projects independently. Proven to manage and complete projects to the highest standard and within agreed deadlines. Can work as part of a team and manage and motivate team members efficiently to achieve quality expectations under pressure.
+I have excellent communication skills, the ability to work under pressure, and the ability to multitask. During all my experience I maintained a positive and trust-based relationship with my colleagues and team.
+
+<b>Accomplishments:</b>
+<ul>
+<li>Completed the maintenance of the control devices of cars with BLDC motors and the steering electronics circuits for modern cars.</li>
+<li>Learned about the production of solar panels, reviewing production schedule, understanding the methods involved in production and figuring out ways to manufacture with maximum efficiency.</li>
+<li>Gained experience in problem diagnosis and troubleshooting of motors.</li>
+<li>Designed electronic power steering test device's board to complete testing more efficiently.</li>
+</ul>
+
+<b>Expertise:</b>
+
+Electronics Engineer, Communication Engineer, Network Technical Support, Data Communications, Analysis, Troubleshooting, Information Technology, Broadband Technologies, Network Optimization, Schematic Capture, Product Design, Printed Circuit Board, Electrical Design, Board Assembly, Compliance, Microcontroller, Analog, Hardware, Electrical Engineering, Mechanical Engineering, Assembly Line, Control Systems, Electricity, Network, Technical Expert, NI Multisim, MATLAB, Proteus, HTML, C, C++, Python, Verilog, STM32, MSP430, CY8CKIT-042 PSoC4, Arduino Atmega328, Altium Designer, KiCad, Engineering, Simulations, Engineering Management, Systems Engineering, Electronic Troubleshooting, Maintenance, Repair, Test Equipment, Automation, Network Engineer, Network Operations, Cellar Network, Electronics, Concept, Techniques, Design, Communication Skills, Interpersonal Skills, Technical Data, Biometric, Problem Solving, Attention to Details.</p>
 
 <h2 align="left"> Programming Languages and Tools:</h2>
 <p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="microsofit" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img 
