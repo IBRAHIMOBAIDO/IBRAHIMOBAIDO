@@ -23,10 +23,6 @@ Electronics Engineer, Communication Engineer, Network Technical Support, Data Co
 src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium" width="40" height="40"/> </a><a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img 
 src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png" alt="KiCad" width="40" height="40"/> </a><a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img 
 src="https://www.st.com/content/ccc/fragment/sales_and_marketing/banner/homepage_banner/group2/79/33/9b/66/5c/0e/40/9c/subbrand_stm32_white/files/Subbrand_white2_STM32.png/jcr:content/translations/zh.Subbrand_white2_STM32.png" alt="STM" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/ibrahimobaido" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimobaido" height="30" width="40" /></a><a href="https://fb.com/obaidoibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obaidoibrahim" height="30" width="40" /></a><a href="https://join.skype.com/invite/HcVAZ8Gf4eBU" target="_blank"><img align="center" src="https://pngimg.com/uploads/skype/skype_PNG28.png" alt="IBRAHIM OABIDO" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">Languages:</h2>
 <ul>
