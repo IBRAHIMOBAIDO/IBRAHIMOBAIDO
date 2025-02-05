@@ -4,7 +4,7 @@
   # Ibrahim OBAIDO
   
   [![](https://visitcount.itsvg.in/api?id=IBRAHIMOBAIDO&icon=5&color=1)](https://visitcount.itsvg.in)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimobaido/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IBRAHIMOBAIDO)
 </div>
 
