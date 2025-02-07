@@ -9,22 +9,9 @@
 </div>
 
 ## 💫 About Me
-```python
-class Ibrahim:
-    def __init__(self):
-        self.role = "Electronics & Communications Engineer"
-        self.education = "Kocaeli University, 2021"
-        self.location = "Turkiye"
-        self.interests = ["Hardware Design", "Embedded Systems", 
-                         "Communication Systems", "PCB Design"]
-        
-    def get_skills(self):
-        return {
-            "Hardware": ["PCB Design", "Circuit Analysis", "BLDC Motors"],
-            "Software": ["C/C++", "Python", "MATLAB", "Verilog"],
-            "Tools": ["Altium Designer", "KiCad", "STM32", "Arduino"]
-        }
-```
+I am a highly skilled Electronics Engineer with over four years of experience specializing in PCB design, high- and low-speed electronic circuits, and embedded systems. My expertise lies in developing high-performance, manufacturable, and cost-efficient electronic solutions that meet industry standards and regulatory compliance.
+
+Throughout my career, I have successfully led projects in energy meter calibration, system validation, and process optimization, achieving significant efficiency, reliability, and cost reduction improvements. Proficient in Altium Designer, I ensure that electronic designs are optimized for performance and manufacturability.
 
 ## 🚀 Featured Projects
 
